@@ -1,8 +1,8 @@
 {
   "packageName": "tank.classic.battle.city",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "New version with SMALL SIZE, BUG\nFIXED and MORE GAMES is on Store!\nUpdate now!",
-  "forceUpdateUrl": "market://details?id=tank.classic.battle.city",
+  "forceUpdateUrl": "market://details?id=retro.memories.free.games",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
